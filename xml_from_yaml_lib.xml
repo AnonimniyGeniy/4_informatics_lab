@@ -1,0 +1,62 @@
+<day>
+    <lesson1>
+        <time>
+            <time>11:40-13:10</time>
+            <week>3, 5, 7, 9, 11, 13, 15, 17</week>
+        </time>
+        <place>
+            <class>2306/1 (бывш. 304) ауд.</class>
+            <corpus>Кронверкский пр., д.49, лит.А</corpus>
+        </place>
+        <lesson>
+            <name>Информатика(Лаб)</name>
+            <teacher>Белозубов Александр Владимирович</teacher>
+            <format>Очно - дистанционный</format>
+        </lesson>
+    </lesson1>
+    <lesson2>
+        <time>
+            <time>11:40-13:10</time>
+            <week>2, 4, 6, 8, 10, 12, 14, 16</week>
+        </time>
+        <place>
+            <class>2332 (бывш. 324) ауд.</class>
+            <corpus>Кронверкский пр., д.49, лит.А</corpus>
+        </place>
+        <lesson>
+            <name>Основы профессиональной деятельности(Лаб)</name>
+            <teacher>Ткешелашвили Нино Мерабиевна</teacher>
+            <format>Очно - дистанционный</format>
+        </lesson>
+    </lesson2>
+    <lesson3>
+        <time>
+            <time>13:30-15:00</time>
+            <week>2, 4, 6, 8, 10, 12, 14, 16</week>
+        </time>
+        <place>
+            <class>2332 (бывш. 324) ауд.</class>
+            <corpus>Кронверкский пр., д.49, лит.А</corpus>
+        </place>
+        <lesson>
+            <name>Основы профессиональной деятельности(Лаб)</name>
+            <teacher>Ткешелашвили Нино Мерабиевна</teacher>
+            <format>Очно - дистанционный</format>
+        </lesson>
+    </lesson3>
+    <lesson4>
+        <time>
+            <time>13:30-15:00</time>
+            <week>3, 5, 7, 9, 11, 13, 15, 17</week>
+        </time>
+        <place>
+            <class>2306/1 (бывш. 304) ауд.</class>
+            <corpus>Кронверкский пр., д.49, лит.А</corpus>
+        </place>
+        <lesson>
+            <name>Информатика(Лаб)</name>
+            <teacher>Белозубов Александр Владимирович</teacher>
+            <format>Очно - дистанционный</format>
+        </lesson>
+    </lesson4>
+</day>
